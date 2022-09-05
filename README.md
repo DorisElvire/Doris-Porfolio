@@ -2,11 +2,10 @@
 
 <h2>👩‍💻 Data Analyst Projects:</h2>
 
+- <b>SQL</b>
+  - [SQL sample](https://github.com/DorisElvire/Sqlsample/blob/main/README.md)
+  - [DataBase Creation Store](https://github.com/DorisElvire/Virtual-assistant)
 
- - [SQl sample ](https://github.com/DorisElvire/Sqlsample/blob/main/README.md)
- 
- - [Creation of Database with SQl ](https://github.com/DorisElvire/Sqlsample/blob/main/README.md)
-  
 - <b>Python</b>
   - [Virrual Assistant (Demo)](https://github.com/DorisElvire/Virtual-assistant)
   - [Calculator](https://github.com/DorisElvire/Virtual-assistant)
