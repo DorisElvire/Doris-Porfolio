@@ -14,11 +14,13 @@
 <h2>📜 Certification</h2>
 
 
- - [Google Data Analystics Professional Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Google Data Analystics Professional Certificate](https://www.credly.com/badges/2ca5b1cf-13cd-49bf-979f-890e8fd7ebd4/linked_in?t=rhehsd)
  
- - [Microsoft PowerBI DA-300 Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Microsoft PowerBI DA-300 Certificate](https://docs.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/)
  
- - [SQL: Querying and Managing Data, Khan Academy](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [SQL: Querying and Managing Data, Khan Academy](https://fr.khanacademy.org/computing/computer-programming/sql?ref=resume_learning#sql-basics)
+  
+ - [Visualisation with Tableau](https://www.coursera.org/account/accomplishments/certificate/NE2KT5G7MUAG))
 
 
 
