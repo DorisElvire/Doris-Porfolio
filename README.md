@@ -3,7 +3,7 @@
 <h2>👩‍💻 Data Analyst Projects:</h2>
 
 
- - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [SQl sample ](https://github.com/joshmadakor1/Algorithms-Practice)
   
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
