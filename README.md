@@ -9,6 +9,7 @@
   
 - <b>Python</b>
   - [Virrual Assistant (Demo)](https://github.com/DorisElvire/Virtual-assistant)
+  - [Calculator](https://github.com/DorisElvire/Virtual-assistant)
 
 
 <h2>📜 Certification</h2>
