@@ -10,6 +10,13 @@
   - [Virrual Assistant (Demo)](https://github.com/DorisElvire/Virtual-assistant)
   - [Calculator](https://github.com/DorisElvire/Virtual-assistant)
 
+- <b>R Programming</b>
+  - [Google Casptone Cyclist Project](https://www.kaggle.com/code/doriselvirenyingone/cyclistic-1-google-data-analytics-capstone)
+  
+- <b>Visualization</b>
+  - [HR Dashboard](https://public.tableau.com/app/profile/doris.elvire.nyingone/viz/HRANALYTICSKPIDASHBOARD/Dashboard2)
+  - [Superstore Customer Purchasing Habits](https://public.tableau.com/app/profile/doris.elvire.nyingone/viz/SUPERSTORECUSTOMERPURCHASINGHABITS_16619913439340/Sheet1)
+ 
 
 <h2>📜 Certification</h2>
 
