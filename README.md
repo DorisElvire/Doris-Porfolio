@@ -16,6 +16,7 @@
 - <b>Visualization</b>
   - [HR Dashboard](https://public.tableau.com/app/profile/doris.elvire.nyingone/viz/HRANALYTICSKPIDASHBOARD/Dashboard2)
   - [Superstore Customer Purchasing Habits](https://public.tableau.com/app/profile/doris.elvire.nyingone/viz/SUPERSTORECUSTOMERPURCHASINGHABITS_16619913439340/Sheet1)
+  - [Higher Risk Of Dying From Covid-19 Analysis](https://public.tableau.com/app/profile/doris.elvire.nyingone/viz/HIGHERRISKSOFDYINGFROMCOVID-19/DASHBOARD)
  
 
 <h2>📜 Certification</h2>
